@@ -3,6 +3,7 @@ import csv
 
 #run in python 2, idk if python 3 works for this
 #need to follow instructions in the README
+#TODO: See if python3 will work because python2 is a dead language
 
 baseSubject = 'Subject: Love Machine Results'
 

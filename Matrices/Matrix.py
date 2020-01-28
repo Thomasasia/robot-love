@@ -92,6 +92,7 @@ try:
 		inp = input()
 		inp = [i for i in inp[1:-1].split(",")]
 		people.append(inp)
+#TODO: Make this except better
 except:
 	pass
 print(",".join([i[1] for i in people]))

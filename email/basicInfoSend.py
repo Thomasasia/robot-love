@@ -1,6 +1,8 @@
 import subprocess
 import csv
 
+#This appears to send out emails, using bash functions. I'll either replace this with something more pythonic or setup msmtp.
+
 baseSubject = 'Subject: Your Love Machine match will be available soon!'
 
 baseMessage = 'Lookout from an email from this address within the next day or so. Check your spam folder'
