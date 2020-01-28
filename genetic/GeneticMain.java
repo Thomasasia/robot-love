@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.io.PrintWriter;
+//use via "cat input.txt | java GeneticMain
 public class GeneticMain
 {
 	static int threads = 11;
