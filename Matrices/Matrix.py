@@ -84,7 +84,7 @@ def weight(p1, p2):
 	if p1 == p2:
 		t = 1000 * 3**int(p1[qs["inperson"]])
 	return t
-	
+
 input()
 people = []
 try:
